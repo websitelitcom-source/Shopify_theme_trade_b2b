@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -6,22 +15,22 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Welcome industry insiders",
-            "text_style": "caption-with-letter-spacing"
+            "text": "Welcome in our Store",
+            "text_style": "subtitle"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Grow your business with us",
+            "heading": "Discover custom craftsmanship",
             "heading_size": "h1"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,13 +44,15 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/WhatsApp_Bild_2025-11-04_um_17.04.51_9dda5afb.jpg",
+        "image_2": "shopify://shop_images/WhatsApp_Bild_2025-11-04_um_17.04.52_cd2e90b2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-5",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -136,7 +147,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Outstanding service | Exclusive pricing | Industry expertise<\/p>"
+            "text": "<p>Outstanding service | Exclusive pricing | Industry expertise</p>"
           }
         }
       },
@@ -332,7 +343,7 @@
           "type": "column",
           "settings": {
             "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success<\/p>",
+            "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -341,7 +352,7 @@
           "type": "column",
           "settings": {
             "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success<\/p>",
+            "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -350,7 +361,7 @@
           "type": "column",
           "settings": {
             "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success<\/p>",
+            "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -359,7 +370,7 @@
           "type": "column",
           "settings": {
             "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success<\/p>",
+            "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
             "link": ""
           }
