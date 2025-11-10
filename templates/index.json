@@ -302,8 +302,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/woodworker-using-handsaw-in-workshop.jpg",
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
+            "title": "Handcrafted With Precision",
+            "text": "<p>Every piece starts in our workshop, where attention to detail and craftsmanship bring your vision to life. From raw wood to flawless finishes — perfection is our passion<br/></p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -312,8 +312,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/young-woman-with-bright-smile.jpg",
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
+            "title": "Skilled Professionals at Your Service",
+            "text": "<p>Our experienced craftsmen combine modern design with traditional woodworking skills to create unique, high-quality furniture for every home.</p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -322,8 +322,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/photo-of-a-bedroom-with-black-and-gold-design.jpg",
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
+            "title": "Smart & Stylish Bedroom Solutions",
+            "text": "<p>We design custom wardrobes, bedside tables, and storage systems that make your bedroom both functional and elegant perfectly tailored to your space.</p>",
             "link_label": "Read now",
             "link": ""
           }
@@ -332,8 +332,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/photo-of-a-living-room-with-large-windows.jpg",
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
+            "title": "Modern Living Spaces That Inspire",
+            "text": "<p>From TV walls to elegant shelves, our living room designs bring comfort and style together — creating a perfect balance of form and function.</p>",
             "link_label": "Read now",
             "link": ""
           }
