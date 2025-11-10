@@ -301,6 +301,7 @@
         "column11": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/woodworker-using-handsaw-in-workshop.jpg",
             "title": "Add educational content",
             "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
@@ -310,6 +311,7 @@
         "column12": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/young-woman-with-bright-smile.jpg",
             "title": "Add educational content",
             "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
@@ -319,6 +321,7 @@
         "column13": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/photo-of-a-bedroom-with-black-and-gold-design.jpg",
             "title": "Add educational content",
             "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
@@ -328,6 +331,7 @@
         "column14": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/photo-of-a-living-room-with-large-windows.jpg",
             "title": "Add educational content",
             "text": "<p>Provide content for your customers that sets their business up for success</p>",
             "link_label": "Read now",
