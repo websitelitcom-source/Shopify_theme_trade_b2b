@@ -22,7 +22,7 @@
       "settings": {
         "image": "shopify://shop_images/Finding_the_perfect_lighting_for_your_kitchen.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
