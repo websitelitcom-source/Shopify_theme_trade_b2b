@@ -80,6 +80,65 @@
         "padding_bottom": 4
       }
     },
+    "multirow_WaMgi6": {
+      "type": "multirow",
+      "blocks": {
+        "row_CUAEwp": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/55.jpg",
+            "caption": "Tailored for Your Home",
+            "heading": "Custom-Made Furniture That Fits Perfectly",
+            "text": "<p>We measure, design, and build bespoke furniture for every room — from kitchens to living rooms and hallways. With precision craftsmanship and modern design, we create pieces that perfectly match your lifestyle and space</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_4zDykU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/6cd59f65ab94bf183648633dc95f0094.jpg",
+            "caption": "Where Style Meets Function",
+            "heading": "Elegant Solutions for Every Space",
+            "text": "<p>From wall panels to built-in wardrobes, we combine premium materials with fine craftsmanship. Every project is made with attention to detail, transforming your interiors into stylish and practical living spaces.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_yiYmPa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/0662de92ecccc5c5a57f03f2e26253fa.jpg",
+            "caption": "Quality for Professionals",
+            "heading": "Wholesale & Components",
+            "text": "<p>Alongside our custom furniture service, we supply high-quality materials and components such as drawers, rails, and panels for wholesale. Perfect for carpenters, interior builders, and furniture manufacturers who value precision and durability.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_CUAEwp",
+        "row_4zDykU",
+        "row_yiYmPa"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection1": {
       "type": "featured-collection",
       "settings": {
@@ -120,25 +179,25 @@
         "featured_collection2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kitchen"
+            "collection": "bedrooms"
           }
         },
         "featured_collection3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bedrooms"
+            "collection": "kitchen"
           }
         },
         "featured_collection4": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "hallways"
           }
         },
         "featured_collection5": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "home-offices"
           }
         }
       },
@@ -150,8 +209,8 @@
         "featured_collection5"
       ],
       "settings": {
-        "title": "Shop our top categories",
-        "heading_size": "h2",
+        "title": "See our top categories",
+        "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "scheme-4",
@@ -320,6 +379,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "multirow_WaMgi6",
     "featured_collection1",
     "collection_list",
     "multicolumn1",
