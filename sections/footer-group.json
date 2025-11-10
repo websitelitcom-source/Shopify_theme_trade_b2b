@@ -11,24 +11,45 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "footer": {
-      "type": "footer",
+    "1762799332e611ee4f": {
+      "type": "_blocks",
       "blocks": {
-        "link_list": {
-          "type": "link_list",
+        "ai_gen_block_5f2cd96_mLqrrD": {
+          "type": "ai_gen_block_5f2cd96",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
+            "facebook_url": "",
+            "instagram_url": "",
+            "twitter_url": "",
+            "youtube_url": "",
+            "tiktok_url": "",
+            "pinterest_url": "",
+            "linkedin_url": "",
+            "snapchat_url": "",
+            "alignment": "center",
+            "mobile_alignment": "center",
+            "spacing": 16,
+            "padding": 20,
+            "icon_size": 44,
+            "border_radius": 8,
+            "background_color": "#262626",
+            "icon_color": "#ffffff",
+            "hover_background_color": "#797068",
+            "hover_icon_color": "#ffffff"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "link_list"
+        "ai_gen_block_5f2cd96_mLqrrD"
       ],
+      "settings": {}
+    },
+    "footer": {
+      "type": "footer",
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_heading": "<strong>Contact Us</strong>",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
@@ -42,6 +63,7 @@
     }
   },
   "order": [
+    "1762799332e611ee4f",
     "footer"
   ]
 }

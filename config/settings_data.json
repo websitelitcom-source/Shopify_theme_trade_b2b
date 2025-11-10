@@ -109,9 +109,9 @@
     "brand_description": "<p></p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https://www.instagram.com/msm_interieurbouw/",
     "social_youtube_link": "",
-    "social_tiktok_link": "",
+    "social_tiktok_link": "https://www.tiktok.com/@maatwerk12",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -141,13 +141,6 @@
       }
     },
     "content_for_index": [],
-    "blocks": {
-      "1102061855093433159": {
-        "type": "shopify://apps/bss-b2b-quote/blocks/config-header/0c13e75b-92f5-4200-98c1-50c1fdb201bc",
-        "disabled": false,
-        "settings": {}
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
