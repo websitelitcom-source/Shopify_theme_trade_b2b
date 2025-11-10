@@ -114,19 +114,19 @@
         "featured_collection1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "living-rooms"
           }
         },
         "featured_collection2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "kitchen"
           }
         },
         "featured_collection3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "bedrooms"
           }
         },
         "featured_collection4": {
