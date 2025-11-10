@@ -221,6 +221,17 @@
         "padding_bottom": 60
       }
     },
+    "contact_form_aziV9e": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Contact form for Order",
+        "heading_size": "h1",
+        "color_scheme": "scheme-3",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn1": {
       "type": "multicolumn",
       "blocks": {
@@ -382,6 +393,7 @@
     "multirow_WaMgi6",
     "featured_collection1",
     "collection_list",
+    "contact_form_aziV9e",
     "multicolumn1",
     "featured_collection2",
     "multicolumn2"
