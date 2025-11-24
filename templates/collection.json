@@ -41,10 +41,11 @@
         "slide_hiaRhx": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify://shop_images/WhatsApp_Bild_2025-11-04_um_17.04.51_9dda5afb.jpg",
+            "heading": "You can order here.",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "Click Here",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
