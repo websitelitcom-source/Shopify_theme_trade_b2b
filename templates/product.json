@@ -14,18 +14,16 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "disabled": true,
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
@@ -88,6 +86,7 @@
     },
     "quick-order-list": {
       "type": "quick-order-list",
+      "disabled": true,
       "settings": {
         "show_image": true,
         "show_sku": true,
@@ -113,11 +112,23 @@
         "padding_top": 36,
         "padding_bottom": 44
       }
+    },
+    "contact_form_xezXHC": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Order Here",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "quick-order-list",
-    "related-products"
+    "related-products",
+    "contact_form_xezXHC"
   ]
 }
