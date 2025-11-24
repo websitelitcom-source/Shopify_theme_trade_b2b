@@ -3453,10 +3453,4 @@ details-disclosure > details {
   .animate--hover-vertical-lift .button:not([disabled]).button--secondary:hover:after {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
-} 
-.header__icon {
-  stroke: black;
-  stroke-width: 0.8;
-} .product-count__text {
-  display: none !important;
 }
