@@ -17,22 +17,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/Finding_the_perfect_lighting_for_your_kitchen.jpg",
-        "image_overlay_opacity": 20,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -46,7 +30,6 @@
   },
   "order": [
     "main",
-    "image_banner",
     "form"
   ]
 }
