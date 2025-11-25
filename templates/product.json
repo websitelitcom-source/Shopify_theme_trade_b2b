@@ -97,6 +97,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Other industry favorites",
         "heading_size": "h2",
