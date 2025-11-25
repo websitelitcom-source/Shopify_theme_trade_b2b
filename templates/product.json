@@ -39,7 +39,7 @@
           "settings": {
             "heading": "Materials and care",
             "icon": "leaf",
-            "content": "",
+            "content": "<p>Expert Tips on Choosing the Right Materials for Care and Quality.</p>",
             "page": "materials-and-care"
           }
         },
@@ -48,7 +48,7 @@
           "settings": {
             "heading": "Merchandising tips",
             "icon": "check_mark",
-            "content": "",
+            "content": "<p>Unlock the Secrets of Effective Merchandising Strategies.</p>",
             "page": "merchandising-tips"
           }
         },
