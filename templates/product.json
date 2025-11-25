@@ -74,7 +74,7 @@
         "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "cover",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "stacked",
         "media_position": "right",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
