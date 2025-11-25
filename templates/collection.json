@@ -42,7 +42,7 @@
           "type": "slide",
           "settings": {
             "image": "{{ collection.image }}",
-            "heading": "You can order here.",
+            "heading": "You can order here",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Click Here",
