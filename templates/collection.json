@@ -25,7 +25,7 @@
           "settings": {
             "image": "{{ collection.image }}",
             "heading": "You can order here.",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "Click Here",
             "link": "shopify://pages/contact",
@@ -51,7 +51,7 @@
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 40,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -63,8 +63,8 @@
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "layout": "grid",
-        "slide_height": "adapt_image",
+        "layout": "full_bleed",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
