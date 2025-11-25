@@ -46,7 +46,7 @@
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Click Here",
-            "link": "",
+            "link": "shopify://pages/contact",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
