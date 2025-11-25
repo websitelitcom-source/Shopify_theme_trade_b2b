@@ -23,7 +23,7 @@
         "slide_Ygmpyb": {
           "type": "slide",
           "settings": {
-            "image": "{{ collection.image }}",
+            "image": "shopify://shop_images/Untitled_c8cde887-e323-44e5-9c93-6ced9be19f1b.jpg",
             "heading": "You can order here.",
             "heading_size": "h1",
             "subheading": "",
@@ -41,7 +41,7 @@
         "slide_hiaRhx": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-11-14_at_10.58.53-Photoroom.png",
+            "image": "{{ collection.image }}",
             "heading": "You can order here.",
             "heading_size": "h2",
             "subheading": "",
