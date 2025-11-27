@@ -112,8 +112,8 @@
             "caption": "Quality for Professionals",
             "heading": "Wholesale & Components",
             "text": "<p>Alongside our custom furniture service, we supply high-quality materials and components such as drawers, rails, and panels for wholesale. Perfect for carpenters, interior builders, and furniture manufacturers who value precision and durability.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Order Now",
+            "button_link": "shopify://pages/contact"
           }
         }
       },
