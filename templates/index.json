@@ -299,6 +299,47 @@
         "padding_bottom": 48
       }
     },
+    "collection_list_ydErm9": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_4FNnrq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        },
+        "featured_collection_JNdWtA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "freestanding-wardrobes"
+          }
+        },
+        "featured_collection_J46xjF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoe-cabinets"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_4FNnrq",
+        "featured_collection_JNdWtA",
+        "featured_collection_J46xjF"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Our Shop For Your Modern House",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_zNFbFJ": {
       "type": "image-with-text",
       "blocks": {
@@ -356,6 +397,7 @@
     "contact_form_aziV9e",
     "featured_collection2",
     "multicolumn2",
+    "collection_list_ydErm9",
     "image_with_text_zNFbFJ"
   ]
 }
