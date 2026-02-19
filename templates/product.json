@@ -18,12 +18,18 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {}
         },
         "description": {
           "type": "description",
           "settings": {}
+        },
+        "buy_buttons_8FqwkW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
@@ -63,6 +69,7 @@
         "title",
         "price",
         "description",
+        "buy_buttons_8FqwkW",
         "collapsible-row-1",
         "collapsible-row-0",
         "collapsible-row-2",
