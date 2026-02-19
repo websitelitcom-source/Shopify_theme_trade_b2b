@@ -15,21 +15,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Discover custom craftsmanship",
+            "heading": "Ontdek ambachtelijk vakmanschap",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Custom cabinets designed to fit your lifestyle and space perfectly.",
+            "text": "Kasten op maat, ontworpen om perfect aan te sluiten op uw levensstijl en ruimte.",
             "text_style": "subtitle"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
+            "button_label_1": "Nu winkelen",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -64,7 +64,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Outstanding service | Exclusive pricing | Modern Elegance</p>"
+            "text": "<p>Uitstekende service | Exclusieve prijzen | Moderne elegantie</p>"
           }
         }
       },
@@ -87,10 +87,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/55.jpg",
-            "caption": "Tailored for Your Home",
-            "heading": "Custom-Made Furniture That Fits Perfectly",
-            "text": "<p>We measure, design, and build bespoke furniture for every room — from kitchens to living rooms and hallways. With precision craftsmanship and modern design, we create pieces that perfectly match your lifestyle and space</p>",
-            "button_label": "Order Now",
+            "caption": "Speciaal ontworpen voor uw huis",
+            "heading": "Meubels op maat die perfect passen.",
+            "text": "<p>Wij meten, ontwerpen en bouwen meubels op maat voor elke ruimte – van keukens tot woonkamers en hallen. Met precisie en modern design creëren we meubels die perfect aansluiten bij uw levensstijl en ruimte.</p>",
+            "button_label": "Bestel nu",
             "button_link": "shopify://pages/contact"
           }
         },
@@ -98,10 +98,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/6cd59f65ab94bf183648633dc95f0094.jpg",
-            "caption": "Where Style Meets Function",
-            "heading": "Elegant Solutions for Every Space",
-            "text": "<p>From wall panels to built-in wardrobes, we combine premium materials with fine craftsmanship. Every project is made with attention to detail, transforming your interiors into stylish and practical living spaces.</p>",
-            "button_label": "Order Now",
+            "caption": "Waar stijl en functionaliteit samenkomen",
+            "heading": "Elegante oplossingen voor elke ruimte",
+            "text": "<p>Van wandpanelen tot inbouwkasten, wij combineren hoogwaardige materialen met vakmanschap. Elk project wordt met oog voor detail uitgevoerd, waardoor uw interieur wordt omgetoverd tot stijlvolle en praktische leefruimtes.</p>",
+            "button_label": "Bestel nu",
             "button_link": "shopify://pages/contact"
           }
         },
@@ -109,10 +109,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/0662de92ecccc5c5a57f03f2e26253fa.jpg",
-            "caption": "Quality for Professionals",
-            "heading": "Wholesale & Components",
-            "text": "<p>Alongside our custom furniture service, we supply high-quality materials and components such as drawers, rails, and panels for wholesale. Perfect for carpenters, interior builders, and furniture manufacturers who value precision and durability.</p>",
-            "button_label": "Order Now",
+            "caption": "Kwaliteit voor professionals",
+            "heading": "Groothandel en componenten",
+            "text": "<p>Naast onze service voor meubels op maat, leveren we hoogwaardige materialen en onderdelen zoals lades, rails en panelen voor de groothandel. Perfect voor timmerlieden, interieurbouwers en meubelfabrikanten die waarde hechten aan precisie en duurzaamheid.</p>",
+            "button_label": "Bestel ne",
             "button_link": "shopify://pages/contact"
           }
         }
@@ -181,7 +181,7 @@
         "featured_collection5"
       ],
       "settings": {
-        "title": "See our top categories",
+        "title": "Bekijk onze topcategorieën",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -197,7 +197,7 @@
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
       "settings": {
-        "heading": "Contact form for Order",
+        "heading": "Contactformulier voor bestellingen",
         "heading_size": "h1",
         "color_scheme": "scheme-3",
         "padding_top": 36,
@@ -353,14 +353,14 @@
         "text_DXhygq": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>About Us</strong></h2><p>We are a professional carpentry team with years of experience in designing, <br/>crafting, and installing custom wooden structures tailored to your exact<br/> needs. Our mission is to transform your ideas into high-quality, <br/>functional, and beautifully crafted pieces that enhance your living or <br/>working space.</p>",
+            "text": "<h3><strong>Over ons: <br/><br/></strong>Wij zijn een professioneel timmerteam met jarenlange ervaring in het ontwerpen, vervaardigen en installeren van op maat gemaakte houten constructies, afgestemd op uw specifieke wensen. Onze missie is om uw ideeën om te zetten in hoogwaardige, functionele en prachtig vormgegeven stukken die uw woon- of werkruimte verrijken.</h3>",
             "text_style": "body"
           }
         },
         "button_PeLjF4": {
           "type": "button",
           "settings": {
-            "button_label": "Order Now",
+            "button_label": "Bestel nu",
             "button_link": "shopify://pages/contact",
             "button_style_secondary": true
           }
