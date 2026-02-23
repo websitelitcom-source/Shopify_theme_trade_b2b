@@ -18,6 +18,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "description": {
@@ -26,6 +27,7 @@
         },
         "buy_buttons_8FqwkW": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
@@ -104,7 +106,6 @@
     },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "Other industry favorites",
         "heading_size": "h2",
