@@ -93,7 +93,6 @@
     },
     "quick-order-list": {
       "type": "quick-order-list",
-      "disabled": true,
       "settings": {
         "show_image": true,
         "show_sku": true,
@@ -104,7 +103,6 @@
     },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "Other industry favorites",
         "heading_size": "h2",
