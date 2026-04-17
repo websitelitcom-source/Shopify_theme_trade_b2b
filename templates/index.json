@@ -204,6 +204,35 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_EjyNP4": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tv-unit",
+        "products_to_show": 7,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection2": {
       "type": "featured-collection",
       "settings": {
@@ -302,6 +331,18 @@
     "collection_list_ydErm9": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_VyMjPp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tv-unit"
+          }
+        },
+        "featured_collection_Ve9A7f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "naast-tafel"
+          }
+        },
         "featured_collection_4FNnrq": {
           "type": "featured_collection",
           "settings": {
@@ -322,6 +363,8 @@
         }
       },
       "block_order": [
+        "featured_collection_VyMjPp",
+        "featured_collection_Ve9A7f",
         "featured_collection_4FNnrq",
         "featured_collection_JNdWtA",
         "featured_collection_J46xjF"
@@ -395,6 +438,7 @@
     "multirow_WaMgi6",
     "collection_list",
     "contact_form_aziV9e",
+    "featured_collection_EjyNP4",
     "featured_collection2",
     "multicolumn2",
     "collection_list_ydErm9",
